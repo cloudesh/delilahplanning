@@ -16,3 +16,5 @@ Sincerely,
 *When you reach out to us, we'll arrange a consultation where we'll go over what your expectations are. We'll go through every single small detail of what goes into a wedding ceremony, and you'll decide which parts you want us to handle. Perhaps you'll want us to handle everything, or—maybe you want support with just a few minor details. Some couples want direct involvement with the entire process, guided by Delilah as partners in coordinating the day together.*
 
 *No matter what it is that you want for your special day, we will handle it. We're bespoke and flexible, the day is yours—not ours.*
+***
+### [Request a Consultation](https://example.com)
