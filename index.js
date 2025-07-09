@@ -61,7 +61,7 @@ fetchDB().then((data) => {
     }
     dataCache = data
     loadSearchResults(data['pages'])
-    loadPage('/about')
+    loadPage('/delilah')
 })
 
 
