@@ -1,13 +1,13 @@
 {
-    "name": "Paul's portfolio",
-    "icon": "./assets/images/home/paul.png",
+    "name": "Delilah's Portfolio",
+    "icon": "./assets/images/home/delilah.png",
 
     "pages": [
         {
-            "icon": "./assets/images/home/paul.png",
-            "name": "About",
-            "link": "/about",
-            "content": "content/about.md"
+            "icon": "./assets/images/home/delilah.png",
+            "name": "Delilah Planning",
+            "link": "/delilah",
+            "content": "content/delilah.md"
         },
         {
             "icon": "📖",
