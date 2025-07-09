@@ -10,10 +10,10 @@
             "content": "content/delilah.md"
         },
         {
-            "icon": "📖",
-            "name": "Blogs",
-            "link": "/blogs",
-            "content": "content/blogs.html"
+            "icon": "☎️",
+            "name": "Consultation",
+            "link": "/consultation",
+            "content": "content/consultation.md"
         }
     ]
 
