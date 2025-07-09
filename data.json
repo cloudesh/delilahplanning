@@ -14,30 +14,6 @@
             "name": "Blogs",
             "link": "/blogs",
             "content": "content/blogs.html"
-        },
-        {
-            "icon": "bi bi-suitcase-lg-fill",
-            "name": "Work Experience",
-            "link": "/experience",
-            "content": "content/experience.md"
-        },
-        {
-            "icon": "🔥",
-            "name": "Open source",
-            "link": "/open-source",
-            "content": "content/projects.html"
-        },
-        {
-            "icon": "✨",
-            "name": "skills",
-            "link": "/skills",
-            "content": "content/skills.md"
-        },
-        {
-            "icon": "✉️",
-            "name": "Contact",
-            "link": "/contact",
-            "content": "content/contact.md"
         }
     ]
 
