@@ -17,4 +17,4 @@ Sincerely,
 
 *No matter what it is that you want for your special day, we will handle it. We're bespoke and flexible, the day is yours—not ours.*
 ***
-Consultations can be requested via [this consultation request form](https://forms.gle/UcxwWnidCP4HNESV6) or by telephone on **39-859-277**
+Consultations can be requested via [this consultation request form](https://forms.gle/UcxwWnidCP4HNESV6) or by telephone on **24-755-176**
